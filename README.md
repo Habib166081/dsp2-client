@@ -51,7 +51,11 @@ log_level="INFO"
 
 ```bash
 uv pip install -e
-python examples/simple_usage.py
+
+exemple de tests :
+ - python examples/full_report.py
+ - streamlit run examples/streamlit_demo.py
+ - python examples/simple_usage.py
 ```
 
 ---
