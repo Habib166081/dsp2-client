@@ -1,0 +1,34 @@
+# Environnements virtuels
+.venv/
+env/
+venv/
+
+# Dépendances et gestionnaires de paquets
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Outils/IDE
+.idea/
+.vscode/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Fichiers de logs/temp
+*.log
+*.tmp
+*.bak
+
+# Fichiers d'environnement
+.env
+.env.*
+
+# Ruff, mypy, pytest caches
+.ruff_cache/
+.mypy_cache/
+.pytest_cache/
